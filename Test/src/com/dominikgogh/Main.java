@@ -12,7 +12,5 @@ public class Main {
             }
             System.out.println();
         }
-
-        System.out.println(array[0][5]);
     }
 }
